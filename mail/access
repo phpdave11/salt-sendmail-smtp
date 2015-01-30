@@ -1,0 +1,1 @@
+Connect:{{ pillar['mail']['smtpcreds']['host'] }} RELAY

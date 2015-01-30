@@ -1,0 +1,1 @@
+AuthInfo:{{ pillar['mail']['smtpcreds']['host'] }} "U:root" "I:{{ pillar['mail']['smtpcreds']['username'] }}" "P:{{ pillar['mail']['smtpcreds']['password'] }}" "M:LOGIN PLAIN"

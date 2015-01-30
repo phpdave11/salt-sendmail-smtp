@@ -1,0 +1,6 @@
+mail:
+  smtpcreds:
+    domain:   yourdomain.com
+    host:     email-smtp.us-east-1.amazonaws.com
+    username: AAAAAAAAAAAAAAAAAAAA
+    password: BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
